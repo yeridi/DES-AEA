@@ -1,0 +1,7 @@
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\bin\Debug\MyApp.exe
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\bin\Debug\MyApp.pdb
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\obj\Debug\MyApp.exe
+C:\Users\Yeridi Crhis\source\repos\MyApp\MyApp\obj\Debug\MyApp.pdb
